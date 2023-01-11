@@ -1,0 +1,15 @@
+/Users/abdelhamid/Desktop/computional_methods/w_project_01_NumeralSystems/w_project_01/w_project_01/bin/Debug/net7.0/w_project_01
+/Users/abdelhamid/Desktop/computional_methods/w_project_01_NumeralSystems/w_project_01/w_project_01/bin/Debug/net7.0/w_project_01.deps.json
+/Users/abdelhamid/Desktop/computional_methods/w_project_01_NumeralSystems/w_project_01/w_project_01/bin/Debug/net7.0/w_project_01.runtimeconfig.json
+/Users/abdelhamid/Desktop/computional_methods/w_project_01_NumeralSystems/w_project_01/w_project_01/bin/Debug/net7.0/w_project_01.dll
+/Users/abdelhamid/Desktop/computional_methods/w_project_01_NumeralSystems/w_project_01/w_project_01/bin/Debug/net7.0/w_project_01.pdb
+/Users/abdelhamid/Desktop/computional_methods/w_project_01_NumeralSystems/w_project_01/w_project_01/obj/Debug/net7.0/w_project_01.csproj.AssemblyReference.cache
+/Users/abdelhamid/Desktop/computional_methods/w_project_01_NumeralSystems/w_project_01/w_project_01/obj/Debug/net7.0/w_project_01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdelhamid/Desktop/computional_methods/w_project_01_NumeralSystems/w_project_01/w_project_01/obj/Debug/net7.0/w_project_01.AssemblyInfoInputs.cache
+/Users/abdelhamid/Desktop/computional_methods/w_project_01_NumeralSystems/w_project_01/w_project_01/obj/Debug/net7.0/w_project_01.AssemblyInfo.cs
+/Users/abdelhamid/Desktop/computional_methods/w_project_01_NumeralSystems/w_project_01/w_project_01/obj/Debug/net7.0/w_project_01.csproj.CoreCompileInputs.cache
+/Users/abdelhamid/Desktop/computional_methods/w_project_01_NumeralSystems/w_project_01/w_project_01/obj/Debug/net7.0/w_project_01.dll
+/Users/abdelhamid/Desktop/computional_methods/w_project_01_NumeralSystems/w_project_01/w_project_01/obj/Debug/net7.0/refint/w_project_01.dll
+/Users/abdelhamid/Desktop/computional_methods/w_project_01_NumeralSystems/w_project_01/w_project_01/obj/Debug/net7.0/w_project_01.pdb
+/Users/abdelhamid/Desktop/computional_methods/w_project_01_NumeralSystems/w_project_01/w_project_01/obj/Debug/net7.0/w_project_01.genruntimeconfig.cache
+/Users/abdelhamid/Desktop/computional_methods/w_project_01_NumeralSystems/w_project_01/w_project_01/obj/Debug/net7.0/ref/w_project_01.dll
